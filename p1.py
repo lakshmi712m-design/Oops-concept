@@ -45,7 +45,7 @@ class Instagram:
 reel1 = Instagram(
     "dancing",
     "dancing with friends",
-    "Vinutha",
+    "Lakshmi",
     "Bangalore mysore" 
 )
 
@@ -60,7 +60,7 @@ reel1.add_comment("Loved the energy")
 reel2 = Instagram(
     "finance minister conference",
     "finance minister conference with friends",
-    "Anitha",
+    "Sinchu",
     "mysore"
 )
 reel2.add_comment("loved it")
@@ -80,4 +80,5 @@ reel2.display_comments()
 
 
 print(id(reel1))
+
 print(id(reel2))

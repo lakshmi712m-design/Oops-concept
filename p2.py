@@ -19,7 +19,7 @@ class IssuedBook(Book):
 book1 = IssuedBook(
     "Python Programming",
     "xyz",
-    "Vinutha",
+    "Lakshmi",
     "03-02-2026"
 )
 book1.display_details()
