@@ -29,5 +29,4 @@ class SmartPhone(Camera, MusicPlayer):
 
 phone = SmartPhone("Samsung", "64 MP", "Dolby Atmos")
 
-
 phone.display_smartphone_details()
