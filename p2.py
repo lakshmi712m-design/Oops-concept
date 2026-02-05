@@ -1,4 +1,3 @@
-
 class Book:
     def __init__(self, title, author):
         self.title = title
@@ -22,4 +21,5 @@ book1 = IssuedBook(
     "Lakshmi",
     "03-02-2026"
 )
+
 book1.display_details()
