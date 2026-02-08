@@ -41,5 +41,4 @@ mobile = MobilePhone(
     "128 GB"
 )
 
-
 mobile.display_mobile_details()
